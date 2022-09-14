@@ -9,7 +9,11 @@ Python is used for:
 * Web development
 * Videogames
 
-To create a Python file
+[Download and installVisual Studio Code](https://code.visualstudio.com/)
+
+[Download and install Python](https://www.python.org/downloads/)
+
+To create a Python file in the case of VScode
 - Just be sure you are using the .py extention
 - Remember all is loaded at the terminal to start Python console just go to your directory and then write **python** in some cases is **python3** or **py**
 
