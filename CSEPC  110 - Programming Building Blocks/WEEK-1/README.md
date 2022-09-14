@@ -31,7 +31,7 @@ print(Hello world)
 yes is very easy!
 
 
-## To assign values and print relationed values you can do something like this:
+### To assign values and print relationed values you can do something like this:
 
 ```
 x = 100
@@ -40,6 +40,13 @@ addition = x + y
 print(addition)
 ```
 
+### To create an input and print the value
+
+```
+name = input('Enter you name:')
+print('hello ' + name)
+```
+#### **Note:** the + sign can be used to concatenate values
 
 **/n**  =  Is a value to indicate a new line
 
@@ -47,4 +54,15 @@ Example:
 
 ```
 print('Hello my name is  \nFrancisco')
+```
+
+### To identify errores you just need read the output at the terminal like:
+
+Example:
+
+```
+y = x / 0
+print(y)
+
+#ZeroDivisionError: division by zero
 ```

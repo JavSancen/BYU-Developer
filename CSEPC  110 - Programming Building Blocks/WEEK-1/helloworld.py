@@ -1,8 +1,8 @@
 
 
 name = input('Enter you name:')
-print('hello')
-print(name)
+print('hello ' + name)
+
 
 
 print('adding numbers')
