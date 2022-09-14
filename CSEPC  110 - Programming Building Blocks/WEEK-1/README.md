@@ -1,4 +1,4 @@
-#WEEK 1 NOTEs
+# WEEK-1 NOTEs
 
 One of the best things of Python is his **human readable** sintax
 
