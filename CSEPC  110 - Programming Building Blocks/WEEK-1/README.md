@@ -9,11 +9,32 @@ Python is used for:
 * Web development
 * Videogames
 
-###To print your first **Hello World!** in Python🐍:
+To create a Python file
+- Just be sure you are using the .py extention
+- Remember all is loaded at the terminal to start Python console just go to your directory and then write **python** in some cases is **python3** or **py**
+
+To execute Python it will be necesary use a console or **terminal**, you can do it with **powershell** if you are in Windows.
+
+- If you have issues to execute your code in visual studio code I sugest be sure your Python extention being **instaled** 
+- Go to your proyect, **right click** over your .py file and select the option **Run Python File in Terminal**
+- Your output will appear in the Terminal section
+
+
+### To print your first **Hello World!** in Python🐍:
 ```
 print(Hello world)
 ```
 yes is very easy!
+
+
+## To assign values and print relationed values you can do something like this:
+
+```
+x = 100
+y = 50
+addition = x + y
+print(addition)
+```
 
 
 **/n**  =  Is a value to indicate a new line
