@@ -4,10 +4,10 @@ One of the best things of Python is his **human readable** sintax
 
 Python is used for:
 
-*Data science
-*Machine learning
-*Web development
-*Videogames
+* Data science
+* Machine learning
+* Web development
+* Videogames
 
 **/n**  =  Is a value to indicate a new line
 
