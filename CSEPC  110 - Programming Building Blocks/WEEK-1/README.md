@@ -2,7 +2,14 @@
 
 One of the best things of Python is his **human readable** sintax
 
-/n  =  Is a value to indicate a new line
+Python is used for:
+
+*Data science
+*Machine learning
+*Web development
+*Videogames
+
+**/n**  =  Is a value to indicate a new line
 
 Example:
 
