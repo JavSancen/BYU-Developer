@@ -9,7 +9,7 @@ Python is used for:
 * Web development
 * Videogames
 
-###To print your first **Hello World!** in Python:
+###To print your first **Hello World!** in Python🐍:
 ```
 print(Hello world)
 ```
