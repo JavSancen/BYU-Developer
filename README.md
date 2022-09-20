@@ -5,11 +5,11 @@ A place to add my University performance!
 ### Web and Computer Programming
 **Potential Employment:**
 
-* Junior programmer
-* Software quality assurance tester
-* Web frontend developer
-* Web content developer
-* Junior JavaScript developer
+- Junior programmer
+- Software quality assurance tester
+- Web frontend developer
+- Web content developer
+- Junior JavaScript developer
 
 + Web and Computer Programming
     + [CSE 110 Programming Building Blocks](https://github.com/JavSancen/BYU-Developer/tree/master/CSEPC%20%20110%20-%20Programming%20Building%20Blocks)
@@ -22,10 +22,10 @@ A place to add my University performance!
 
 
 ### Web Development
-**Potential Employment**
+**Potential Employment:**
 
-* General programmer
-* Web developer
+- General programmer
+- Web developer
 
 + Web Development
     * [WDD 330 Web Frontend Development II]()
@@ -36,11 +36,11 @@ A place to add my University performance!
 
 
 ### Database
-**Potential Employment**
+**Potential Employment:**
 
-* General or database programmer
-* Database designer or developer
-* Data warehouse
+- General or database programmer
+- Database designer or developer
+- Data warehouse
 
 + Database
     * [CIT 111 Introduction to Databases]()
