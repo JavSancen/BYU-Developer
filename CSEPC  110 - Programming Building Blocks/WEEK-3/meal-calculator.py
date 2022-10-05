@@ -18,21 +18,21 @@ tip_rate = subtotal * (tip / 100)
 sales_tax = subtotal * (tax / 100)
 total = subtotal + sales_tax
 including_tip = total + tip_rate
-print(f"Subtotal: ${subtotal}")
-print(f"Tip: ${tip_rate}")
-print(f"Sales Tax: ${sales_tax}")
-print(f"Total: ${total}")
+print(f"Subtotal: ${subtotal:.2f}")
+print(f"Tip: ${tip_rate:.2f}")
+print(f"Sales Tax: ${sales_tax:.2f}")
+print(f"Total: ${total:.2f}")
 # Adding the tip rate
-print(f"Including Tip: ${including_tip}")
+print(f"Including Tip: ${including_tip:.2f}")
 print()
 
 # Computing payment amount and change
 payment_amount = float(input("What is the payment amount? "))
 change = payment_amount - total
 change_including_tip = payment_amount - including_tip
-print(f"Change: ${change}")
+print(f"Change: ${change:.2f}")
 print()
 print("Do you want add the tip?")
 print("Yes.")
 print()
-print(f"Change: ${change_including_tip}")
+print(f"Change: ${change_including_tip:.2f}")
