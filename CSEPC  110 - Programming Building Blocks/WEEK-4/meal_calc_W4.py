@@ -52,11 +52,11 @@ print()
 print(f"Change: ${change_including_tip:.2f}")
 
 """
-I used fix values to the menu as in a restaurant.
+I used fixed values to the menu as in a restaurant.
 The tax rate value is a fix value I'm based in the tax rate here in Mexico for IVA
-I did in this way to simplify and reduct the information user need to update
-It is a very simple example but is thinking in a real restaurant.
-And I also print only two float number to the values.
+I did in this way to simplify and reduce the information user need to update
+It is a very simple example but it is like thinking in a real restaurant.
+And I also print only two float numbers to the values.
 
-At the end I show the change with and without tip change with a short real converssation example
+At the end I show the change with and without tip change with a short real conversation example
 """
