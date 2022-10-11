@@ -18,7 +18,7 @@ print()
 fav_animal = input("What is your favorite animal?: ")
 
 # Condition for favorite animal
-if fav_animal == "BEAR":
+if fav_animal.upper() == "BEAR":
     print("That's my favorite animal too!")
 else:
     print("That one is not my favorite.")
