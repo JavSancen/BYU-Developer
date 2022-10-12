@@ -16,10 +16,13 @@ else:
 sign = ""
 second_digit = grade % 10
 
+# Condition to positive sign
 if second_digit >= 7:
     sign = "+"
 elif grade >= 3:
     sign = ""
+
+# condition to negative sign
 if second_digit < 3:
     sign = "-"
 
