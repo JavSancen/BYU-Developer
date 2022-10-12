@@ -3,11 +3,11 @@ grade = int(input("What is your rate grade?: "))
 
 if grade >= 90:
     letter = 'A'
-if grade >= 80:
+elif grade >= 80:
     letter = 'B'
-if grade >= 70:
+elif grade >= 70:
     letter = 'C'
-if grade >= 60:
+elif grade >= 60:
     letter = 'D'
 else:
     letter = 'F'
@@ -18,7 +18,7 @@ second_digit = grade % 10
 
 if second_digit >= 7:
     sign = "+"
-if grade >= 3:
+elif grade >= 3:
     sign = ""
 elif second_digit < 3:
     sign = "-"
