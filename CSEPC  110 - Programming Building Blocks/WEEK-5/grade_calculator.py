@@ -20,10 +20,8 @@ if second_digit >= 7:
     sign = "+"
 elif grade >= 3:
     sign = ""
-elif second_digit < 3:
+if second_digit < 3:
     sign = "-"
-else:
-    sign = ""
 
 # Setting only F in the case between 59 and 0
 if letter == "F":
