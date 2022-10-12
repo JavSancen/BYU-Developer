@@ -25,6 +25,7 @@ elif second_digit < 3:
 else:
     sign = ""
 
+# Setting only F in the case between 59 and 0
 if letter == "F":
     sign = ""
 
