@@ -32,4 +32,4 @@ else:
 if grade >= 70:
     print(f'Congratulations you pass the class with "{sign}{letter}"!')
 else:
-    print(f'Your grade is "{letter}" Keep trying you can do it the next time.')
+    print(f'Your grade is "{sign}{letter}" Keep trying you can do it the next time.')
