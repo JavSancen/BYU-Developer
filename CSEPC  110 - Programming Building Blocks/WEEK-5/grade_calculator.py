@@ -22,9 +22,10 @@ elif grade >= 3:
     sign = ""
 elif second_digit < 3:
     sign = "-"
-elif letter == "F":
-    sign = ""
 else:
+    sign = ""
+
+if letter == "F":
     sign = ""
 
 
