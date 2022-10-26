@@ -18,15 +18,17 @@ if loan_size >= 5:
     else:
         should_loan = False
 else: # This means its a small loan
-    if credit < 4:
-        should_loan = False
-    else:
-        if income >= 7 or down_payment >= 7:
-            should_loan = True
-        elif income >= 4 and down_payment >= 4:
-            should_loan = True
-        else:
-            should_loan = False
+
+if credit < 4:
+    should_loan = False
+else:
+
+if income >= 7 or down_payment >= 7:
+    should_loan = True
+elif income >= 4 and down_payment >= 4:
+    should_loan = True
+else:
+    should_loan = False
 
 if should_loan:
     print("The decision is yes. This is a good loan.")
