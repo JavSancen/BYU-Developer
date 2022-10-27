@@ -23,6 +23,6 @@ while ask == "yes":
             print("You guess it!")
 
     print(f"You try {attempts} times")
-    
+
     ask = str(input("Do you want to play again?"))
 
