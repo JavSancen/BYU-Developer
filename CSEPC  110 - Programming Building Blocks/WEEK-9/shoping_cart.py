@@ -1,4 +1,4 @@
-import sys
+
 names = []
 prices = []
 quantities_sold = []
