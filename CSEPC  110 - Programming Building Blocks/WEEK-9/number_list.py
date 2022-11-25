@@ -12,7 +12,7 @@ while new_number != 0:
         numbers.append(new_number)
 
 max = numbers[0]
-min_positive = numbers [0]
+min_positive = numbers[0]
 
 for number in numbers:
     sum += number
