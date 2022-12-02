@@ -1,29 +1,26 @@
+largest_num = -1
+largest_book = ""
 
-with open("/home/francisco/Downloads/books_and_chapters.txt") as books:
+print("which volume of scriptures they would like to learn about?")
+users_scripture = input("(for example, Old Testament, New Testament, Book of Mormon, Doctrine and Covenants, Pearl of Great Price). : "
+)
 
-    max_book = -1
-    min_book = +1
-    max_name = "" # It doesn't matter what you set this to, it just needs to be declared
-    min_name = ""
+with open("/home/francisco/Downloads/books_and_chapters.txt") as books_file:
+    for lines in books_file:
 
-    for item in books:
-        item = item.strip()
-        part = item.split(",")
+        clean_lines = lines.strip()
+        parts = clean_lines.split(":")
 
-        book_name = part[0] # name is the first part
-        book = int(part[1])
+        scripture = parts[2]
+        book = parts[0]
+        chapter = int(parts[1])
 
-        if books > max_book:
-            # This is the new max
-            max_book = books
+        if scripture.lower() == users_scripture.lower():
 
-            # Also save this product name as the max name
-            max_book = book_name
-        elif books < max_book and book < 10:
-            min_book = books
-            min_people = book_name
+            if chapter > largest_num:
 
-    print(f"The maximum age is: {max_book}")
-    print(f"The person with the maximum age is: {max_book}")
-    print(f"The maximum age is: {min_book}")
-    print(f"The person with the minimum age is: {min_people}")
+                largest_num = chapter
+                largest_book = book
+
+print(f"The book with the most chapters is: {largest_book}")
+print(f"It has {largest_num} chapters.")
