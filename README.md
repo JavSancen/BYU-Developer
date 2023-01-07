@@ -13,12 +13,12 @@ A place to add my University performance!
 
 + Web and Computer Programming
     + [CSE 110 Programming Building Blocks](https://github.com/JavSancen/BYU-Developer/tree/master/CSEPC%20%20110%20-%20Programming%20Building%20Blocks)
-    + [CSE 111 Programming with Functions](https://github.com/JavSancen/BYU-Developer/tree/master/CSEPC%20%20110%20-%20Programming%20Building%20Blocks)
+    + [CSE 111 Programming with Functions](https://github.com/JavSancen/BYU-Developer/tree/master/CSE%20111%20Programming%20with%20Functions)
     + [CSE 121B JavaScript Language](https://github.com/JavSancen/BYU-Developer/tree/master/CSEPC%20%20110%20-%20Programming%20Building%20Blocks)
     + [CSE 210 Programming with Classes](https://github.com/JavSancen/BYU-Developer/tree/master/CSEPC%20%20110%20-%20Programming%20Building%20Blocks)
     + [GS 170 Career Development](https://github.com/JavSancen/BYU-Developer/tree/master/CSEPC%20%20110%20-%20Programming%20Building%20Blocks)
     + [WDD 230 Web Frontend Development I](https://github.com/JavSancen/BYU-Developer/tree/master/CSEPC%20%20110%20-%20Programming%20Building%20Blocks)
-    + [WDD 130 Web Fundamentals](https://github.com/JavSancen/BYU-Developer/tree/master/CSEPC%20%20110%20-%20Programming%20Building%20Blocks)
+    + [WDD 130 Web Fundamentals](https://github.com/JavSancen/BYU-Developer/tree/master/WDD%20130%20Web%20Fundamentals)
 
 
 ### Web Development
