@@ -1,5 +1,18 @@
+"""
+    Author:  Francisco Zúñiga
+
+    Class:  111-15
+
+    Instructor:  Brother Christian Eisinger
+
+    Date:  1/11/2023
+
+    Version:  1.0
+"""
+
 import math
 
+# I used this variable names to keep it very simple
 w = float(input("Enter the width of the tire in mm (ex 205): "))
 a = float(input("Enter the aspect ratio of the tire (ex 60): "))
 d = float(input("Enter the diameter of the wheel in inches (ex 15): "))
