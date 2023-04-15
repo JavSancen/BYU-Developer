@@ -11,7 +11,7 @@ heart rate between 65% and 85% of your heart’s maximum rate.
 age = int(input("Please enter your age: "))
 heart_rate = int(input("Please enter your actual rate per minute: "))
 max_heart_rate = 220 - age
-rate_porcent = heart_rate / max_heart_rate * 100
+rate_percent = heart_rate / max_heart_rate * 100
 
 print(f"Your heart rate % is {rate_porcent:.2f}% of your max heart rate per minute.")
 
